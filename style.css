@@ -1,0 +1,24 @@
+input {
+    margin: 10px;
+}
+
+#submit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#Name_of_Students_with_commas {
+    border: 1px solid green;
+    padding: 10px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#Name_of_Students_without_commas {
+    border: 1px solid rgb(0, 9, 128);
+    padding: 10px;
+    background-color: rgb(47, 85, 255);
+    border-radius: 10px;
+    width: 50%;
+}
